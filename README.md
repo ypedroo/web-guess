@@ -1,5 +1,13 @@
 # Deep Learning Web Guess
 
+## Requirements
+* Numpy 1.18.1
+* Keras 2.3.1
+* TensorFlow 2.1
+* Flask 1.1.2
+* Flask-bootstrap 3.3.7.1
+* Flask-wtf 0.14.3
+
 ## How to Run
 First export the main project as an app Flask
 On Bash use:
